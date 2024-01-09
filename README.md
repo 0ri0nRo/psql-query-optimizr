@@ -1,10 +1,6 @@
 
-# Project Title
-
-Brief description of your project.
-
-## Description
-
+# PostgreSQL query plotter
+More details (here some benchmark)[https://benchmark.clickhouse.com/] 
 An in-depth paragraph about your project and overview of use.
 
 ## Visuals
