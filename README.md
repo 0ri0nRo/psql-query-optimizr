@@ -5,11 +5,14 @@ More details here some [benchmark](https://benchmark.clickhouse.com/)
 ## Visuals
 
 Same query with different number of elements in own database.
-
-![1m](images/1m.png)
-![1m_35elements](images/1m_35elements.png)
-![1ml_100elements](images/1ml_100elements.png)
+Query with 400k elements and 15 elements search.
 ![400k](images/400k.png)
+Query with 1 milion elements.
+![1m](images/1m.png)
+Query with 1 milion elements and 35 elements search.
+![1m_35elements](images/1m_35elements.png)
+Query with 1 milion elements and 100 elements search.``
+![1ml_100elements](images/1ml_100elements.png)
 
 ## Files
 
