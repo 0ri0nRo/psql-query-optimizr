@@ -12,7 +12,7 @@ Same query with different number of elements in own database.
 ![1m](images/1m.png)
 #### Query with 1 milion elements and 35 elements search.
 ![1m_35elements](images/1m_35elements.png)
-#### Query with 1 milion elements and 100 elements search.``
+#### Query with 1 milion elements and 100 elements search.
 ![1ml_100elements](images/1ml_100elements.png)
 
 ## Files
